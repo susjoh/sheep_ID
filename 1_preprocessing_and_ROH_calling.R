@@ -1,6 +1,7 @@
 # (1) filtering the imputed data set for low call rate individuals
 # (2) run plink pca on genotypes to get PCs for GWAS
 # (3) calling ROH 
+# COMMENT
 
 # relatedness PCs for GWAS
 library(tidyverse)
